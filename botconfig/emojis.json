@@ -1,0 +1,78 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "❌",
+    "SUCCESS" : "✅",
+
+    "disabled" : "❌",
+    "enabled" : "✅",
+
+    "progress_bar": {
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "⬜",
+      "filledframe": "🟧"
+    },
+
+    "playing": "🎶",
+    "pruning": "💬",
+    "equalizer": "🎚",
+    "cleared": "🗑",
+    "leave_on_empty": "🗣️",
+    "time": "⌛",
+    "premium": "💰",
+    "song_by": "💯",
+    "setup": "⚙️",
+    "dj": "🎧",
+    "bot": "🤖",
+    "search": "🔎",
+    "resume": "▶",
+    "pause": "<:pause:1166705046067613706>",
+    "lyrics": "📃",
+    "disk": "📀",
+    "ping": "🏓",
+
+    "rewind": "<:rewindsign:1166707523521359872>",
+    "forward": "<:fastforwardbutton:1166707767977967667>",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "⏮️",
+    "skip_track": "<:skip:1166702907530432552>️",
+    "replay_track": "🔃",
+    "reduce_volume": "<:decreasevolume:1166708866076119100>",
+    "raise_volume": "<:highvolume:1166709344256131132>",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "<:shuffle:1166704674993352724>",
+    "show_queue": "📑",
+    "show_current_track": "🩸"
+  },
+  "react": {
+
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE JUST THE ID IN REACT, EXAMPLE: <:rewindsign:1166707523521359872> --> 818558865268408341",
+
+    "ERROR" : "❌",
+    "SUCCESS" : "✅",
+
+
+    "rewind": "<:rewindsign:1166707523521359872>",
+    "forward": "<:fastforwardbutton:1166707767977967667>",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "⏮️",
+    "skip_track": "<:skip:1166702907530432552>️",
+    "replay_track": "🔃",
+    "reduce_volume": "<:decreasevolume:1166708866076119100>",
+    "raise_volume": "<:highvolume:1166709344256131132>",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "<:shuffle:1166704674993352724>",
+    "show_queue": "📑",
+    "show_current_track": "🩸"
+  }
+
+}

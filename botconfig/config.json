@@ -1,0 +1,48 @@
+{
+    "token": "MTEzOTg4Nzc2Mzc2OTAwMDAwNg.GKNgOs.XbjPrNHGz-NugYTJTjJm65PG1psqXJ69P0-arY",
+    "prefix": "!",
+    "ownerIDS": [
+        "1125031170422345738"
+    ],
+    "fnbr": "GET from: https://fnbr.co",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "UetuSPOZPry",
+    "status": {
+        "text": " {guildcount} Servers, with {membercount}",
+        "text2": "My Prefix {prefix}",
+        "type": "WATCHING",
+        "url": "https://www.twitch.tv/husenaja_"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "lava.link",
+                "port": 80,
+                "password": "youshallnotpasss"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "9524cc7b31d34edeab89e8847d1da167",
+        "clientID": "eed37f9f3dd74d8aaa7035766abf3eac"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "ENABLED"
+        }
+    }
+}
